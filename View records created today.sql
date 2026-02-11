@@ -1,0 +1,3 @@
+SELECT *
+FROM Entidades
+WHERE CAST(DteCreacion AS DATE) = CAST(GETDATE() AS DATE);
