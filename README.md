@@ -11,19 +11,19 @@ en ambientes productivos y de pruebas.
 - Uso de espacio en base de datos
 - Diagnóstico de queries lentas
 
-## 🚀 Cómo usar
+##  Cómo usar
 1. Conéctate a tu instancia de SQL Server
 2. Abre el archivo `.sql` que necesites
 3. Ejecuta el script en la base de datos correspondiente
 4. Analiza los resultados según el escenario
 
-## 🧠 Casos de uso
+## Casos de uso
 - Lentitud en el sistema ERP
 - Usuarios reportan bloqueos
 - Alto consumo de CPU en el servidor
 - Revisión preventiva de rendimiento
 
-## ⚠️ Notas
+##  Notas
 - Los scripts usan vistas de sistema (DMVs)
 - Se recomienda ejecutarlos con permisos adecuados
 - No incluyen datos sensibles ni específicos de clientes
