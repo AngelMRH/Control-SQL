@@ -4,7 +4,7 @@ Colección de scripts en SQL Server para monitoreo y diagnóstico de bases de da
 Pensado para tareas de soporte, análisis de rendimiento y detección de problemas
 en ambientes productivos y de pruebas.
 
-## 📌 ¿Qué incluye?
+##  ¿Qué incluye?
 - Monitoreo de sesiones activas
 - Detección de bloqueos (locks)
 - Consultas con alto consumo de CPU
